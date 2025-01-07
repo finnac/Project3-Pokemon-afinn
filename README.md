@@ -1,0 +1,2 @@
+https://youtu.be/bJBnEVSyqUs - Demo Video
+Our code can be accessed via either our github (https://github.com/mmeineke1014/Project3-Pokemon) or the deployed code link (https://chimerical-dusk-604c61.netlify.app/). To run the code manually, download it as a zip file from github, then run it as a local web server with python or some other application. No additional installs are required and d3 is included with the source code, alongside all necessary data and media. 
